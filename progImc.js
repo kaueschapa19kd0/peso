@@ -7,7 +7,7 @@ function calcular(){
 
     let peso = Number(document.getElementById("peso").value)
 
-    let nome = document.getElementById("nome").value
+    let nome = document.getElementById("nome").valuegit
 
     console.log(altura)
     console.log(peso)
